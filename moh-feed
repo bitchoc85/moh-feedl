@@ -1,0 +1,36 @@
+Package: enigma2-plugin-extensions-zoom
+Version: v1.0
+Description: Zoom
+Maintainer: Zoom
+Architecture: all
+Priority: optional
+Section: base
+Size: 9682
+Filename: enigma2-plugin-extensions-zoom_v1.0_all.ipk
+MD5sum: cefec7195d599c5a57063bcdc3daf8ef
+SHA256sum: d74d713f905f3f296f1f019cfab45fe84194a6ecfa0602e4303d66c30fb4a258
+
+Package: enigma2-plugin-extensions-subssupport
+Version: v1.0
+Description: SubsSupport
+Maintainer: SubsSupport
+Architecture: all
+Priority: optional
+Section: base
+Size: 1105330
+Filename: enigma2-plugin-extensions-subssupport_v1.0_all.ipk
+MD5sum: a992d85d296c5048edb8cba7c1015cf2
+SHA256sum: 3b0da4b592f8f95adc9ab232df9eee08e2d3e7918e8142c53dee30ca8d01e491
+
+Package: enigma2-plugin-extensions-raedquicksignal
+Version: v1.0
+Description: RaedQuickSignal
+Maintainer: RaedQuickSignal
+Architecture: all
+Priority: optional
+Section: base
+Size: 3030944
+Filename: enigma2-plugin-extensions-raedquicksignal_v1.0_all.ipk
+MD5sum: 93aed09305a3fbfcf2ef04ad738c55e0
+SHA256sum: 078906e18c1287aff499552611d17722447ef5579f63a0e1c170cc0fbf1f1dc8
+
